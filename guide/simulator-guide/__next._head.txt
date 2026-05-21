@@ -1,0 +1,5 @@
+1:"$Sreact.fragment"
+2:I[96395,["/web/_next/static/chunks/ef678cb79adcc24e.js","/web/_next/static/chunks/512e8c127ec4b003.js"],"ViewportBoundary"]
+3:I[96395,["/web/_next/static/chunks/ef678cb79adcc24e.js","/web/_next/static/chunks/512e8c127ec4b003.js"],"MetadataBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"7zzHpTnrhq4cu7jXMTk25","rsc":["$","$1","h",{"children":[null,["$","$L2",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}],["$","meta","2",{"name":"theme-color","content":"#ffffff"}]]}],["$","div",null,{"hidden":true,"children":["$","$L3",null,{"children":["$","$4",null,{"name":"Next.Metadata","children":[["$","title","0",{"children":"冒险岛装备模拟器使用手册 | 冒险岛"}],["$","meta","1",{"name":"description","content":"全方位解析装备模拟器功能，从套装搭配到光效预览，助你打造完美的冒险岛角色配装方案。"}],["$","link","2",{"rel":"canonical","href":"https://maplestorytool.github.io/web/"}]]}]}]}],null]}],"loading":null,"isPartial":false}
